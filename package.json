@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+     "@sanity/cli": "^3.71.2",
     "@gsap/react": "^2.1.1",
     "@react-three/drei": "^9.117.3",
     "@react-three/fiber": "^8.17.10",
