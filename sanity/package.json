@@ -15,6 +15,7 @@
     "sanity"
   ],
   "dependencies": {
+     "@sanity/cli": "^3.71.2",
     "@sanity/client": "^6.24.3",
     "@sanity/vision": "^3.69.0",
     "next-sanity": "^9.8.35",
